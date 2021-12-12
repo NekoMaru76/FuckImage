@@ -1,4 +1,4 @@
-# BrainFuckImage
+# FuckImage
 Using BrainFuck to render images.
 
 ## Informations
